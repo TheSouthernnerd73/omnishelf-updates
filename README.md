@@ -1,12 +1,13 @@
 # OmniShelf
 
-**A private, encrypted password manager made for game accounts.**
+**A private, encrypted password manager for game accounts, social media, streaming and more.**
 
-Keep all your Steam, EA, Epic, Rockstar and other game logins in one place on your own PC. Nothing is uploaded anywhere. Everything is locked behind one master password.
+Keep all your Steam, EA, Xbox, Facebook, Twitch, Netflix, Gmail and 60+ other logins in one place on your own PC. Nothing is uploaded anywhere. Everything is locked behind one master password.
 
 ## What it does
 
 - **Encrypted vault.** Your accounts are encrypted on your PC with a master password only you know.
+- **62 platforms with logos.** Pick from Gaming, Social, Streaming, Email, Shopping and more, or add your own. The whole app takes on that platform's look when you select it.
 - **One-click Steam login.** Click **Steam** next to an account and OmniShelf logs Steam in as that account.
 - **Ban checking.** See VAC, game and community bans for your Steam accounts, and mark Ricochet (Call of Duty) bans yourself.
 - **Import in seconds.** Bring in a whole list from a text or CSV file, with a preview and duplicate protection.
@@ -15,7 +16,7 @@ Keep all your Steam, EA, Epic, Rockstar and other game logins in one place on yo
 
 ## Free and full version
 
-The free version holds up to 5 accounts. A license key unlocks unlimited accounts.
+The free version holds up to 5 accounts. License keys unlock more: Basic (25), Plus (100) or Unlimited.
 
 **Get a license:** contact the developer through this GitHub page.
 
