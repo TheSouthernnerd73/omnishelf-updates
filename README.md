@@ -16,12 +16,12 @@ If you have a lot of accounts, you know the problem: sticky notes, text files, a
 
 ## Free and full versions
 
-| Version | Accounts |
-|---|---|
-| Free | up to 5 |
-| Basic | up to 25 |
-| Plus | up to 100 |
-| Unlimited | no limit |
+| Version | Accounts | Price |
+|---|---|---|
+| Free | up to 5 | $0 |
+| Basic | up to 25 | $4.99 |
+| Plus | up to 100 | $10.99 |
+| Unlimited | no limit | $15.99 |
 
 To buy a license key, contact the developer through this GitHub page.
 
